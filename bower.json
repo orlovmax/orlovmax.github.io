@@ -1,8 +1,5 @@
 {
   "name": "synt-general-template",
   "description": "General project template based on Grunt/Gulp task runners",
-  "dependencies": {
-    "jquery": "latest",
-    "modernizr": "~2.8.3"
-  }
+  "dependencies": {}
 }
