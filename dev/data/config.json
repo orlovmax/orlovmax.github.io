@@ -5,19 +5,19 @@
 		"titleDelim": " | ",
 		"description": "General project template based on Grunt/Gulp task runners",
 		"keywords": "Front-end template, project template, boilerplate, web starter kit",
-		"url": "===site-full-url==="
+		"url": "http://orlovmax.github.io"
 	},
 	"modules": {
 		"googleFonts": "https://fonts.googleapis.com/css?family=PT+Sans&subset=latin,cyrillic%7CPT+Serif&subset=latin,cyrillic",
 		"bodyJs": true,
-		"headJs": true,
-		"customCss": true,
-		"noscriptCss": true,
+		"headJs": false,
+		"customCss": false,
+		"noscriptCss": false,
 		"twitterCard": true,
 		"openGraph": true
 	},
 	"links": {
-		"twitterCardCreator": "===twittercard-creator-account===",
-		"twitterCardAccount": "===twittercard-main-account==="
+		"twitterCardCreator": "@orlovmax_im",
+		"twitterCardAccount": "@orlovmax_im"
 	}
 }
